@@ -1,0 +1,28 @@
+#slide-bar h2, #slide-bar p {
+    color: #3473b6;
+}
+/*h2{*/
+    /*color: aqua;*/
+/*}*/
+
+.date {
+    font-size: 8pt;
+    color: #b1b1b1;
+    font-family: "Noto Sans Mono CJK SC Regular";
+}
+
+a:link {
+    color: #6b7aff;
+}
+
+a:hover {
+    color: #3473b6;
+}
+
+#slide-bar {
+position: absolute;
+    top: 8px;
+    right: 16px;
+    padding: 5px  5px 5px  5px;
+    background-color: aquamarine;
+}
